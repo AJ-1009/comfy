@@ -1,5 +1,5 @@
 
-export default function Card() {
+export default function card() {
   return (
     <div>Card</div>
   )
